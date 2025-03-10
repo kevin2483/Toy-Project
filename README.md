@@ -1,5 +1,4 @@
 # Toy-Project
-타이핑 게임입니다.
-오류를 수정중입니다.
-<img width="1689" alt="Image" src="https://github.com/user-attachments/assets/f1fba08f-f483-4612-85a0-2819735e1f2f" />
+투두리스트 토이프로젝트입니다.
+html과 css, 자바스크립트를 이용해서 구현하였습니다.
 ![Image](https://github.com/user-attachments/assets/f5fcb97d-57f6-4629-a810-5bce44b4ae58)
