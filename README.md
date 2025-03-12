@@ -9,3 +9,4 @@ html과 css, 자바스크립트를 이용해서 구현하였습니다.
 2. 디지털 시계입니다.
 html과 css, 자바스크립트를 이용해서 구현하였습니다.
 디지털 시계속 현재 시간을 보여줍니다.
+![Image](https://github.com/user-attachments/assets/71b25f13-2742-43d2-94cf-bfef909a9810)
