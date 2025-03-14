@@ -14,3 +14,4 @@ html과 css, 자바스크립트를 이용해서 구현하였습니다.
 4. 아날로그 시계입니다.
 html과 css, 자바스크립트를 이용해서 구현하였습니다.
 아날로그 시계속 현재 시간이 업데이트가 되면서 현재 시간을 실시간으로 보여줍니다.
+![Image](https://github.com/user-attachments/assets/e1ea9590-9ee8-43a1-a84f-698f68b8fb15)
